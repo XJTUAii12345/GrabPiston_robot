@@ -1,0 +1,30 @@
+﻿Build started 2017/3/21 16:35:43.
+     1>Project "D:\张亮文件\工业相机视觉文件\CameraShow\tcp_client\tcp_client\tcp_client.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\tcp_client.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Uic'ing tcp_client.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.7\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.7\include\QtCore /IC:\Qt\4.8.7\include\QtGui /IC:\Qt\4.8.7\include\QtNetwork /IC:\Qt\4.8.7\include\QtWebKit /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WEBKIT_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_tcp_client.cpp main.cpp tcp_client.cpp
+         moc_tcp_client.cpp
+         main.cpp
+         tcp_client.cpp
+         Generating Code...
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\张亮文件\工业相机视觉文件\CameraShow\tcp_client\Win32\Debug\\tcp_client.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.7\lib qtmaind.lib QtCored4.lib QtGuid4.lib QtNetworkd4.lib QtWebKitd4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\tcp_client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\张亮文件\工业相机视觉文件\CameraShow\tcp_client\Win32\Debug\tcp_client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\张亮文件\工业相机视觉文件\CameraShow\tcp_client\Win32\Debug\tcp_client.lib" /MACHINE:X86 Debug\moc_tcp_client.obj
+         Debug\qrc_tcp_client.obj
+         Debug\main.obj
+         Debug\tcp_client.obj
+         LINK : D:\张亮文件\工业相机视觉文件\CameraShow\tcp_client\Win32\Debug\\tcp_client.exe not found or not built by the last incremental link; performing full link
+         tcp_client.vcxproj -> D:\张亮文件\工业相机视觉文件\CameraShow\tcp_client\Win32\Debug\tcp_client.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\张亮文件\工业相机视觉文件\CameraShow\tcp_client\Win32\Debug\\tcp_client.exe;#1" /manifest Debug\tcp_client.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\tcp_client.unsuccessfulbuild".
+         Touching "Debug\tcp_client.lastbuildstate".
+     1>Done Building Project "D:\张亮文件\工业相机视觉文件\CameraShow\tcp_client\tcp_client\tcp_client.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.01

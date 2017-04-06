@@ -1,0 +1,59 @@
+﻿'Console_houghline.exe': Loaded 'D:\张亮文件\工业相机视觉文件\CameraShow\Console_houghline\Debug\Console_houghline.exe', Symbols loaded.
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'D:\opencv2.4.10\build\x86\vc10\bin\opencv_core2410d.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Console_houghline.exe': Loaded 'D:\opencv2.4.10\build\x86\vc10\bin\opencv_highgui2410d.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\lpk.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\usp10.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\avifil32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\winmm.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\msacm32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\msvfw32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\avicap32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\version.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'D:\opencv2.4.10\build\x86\vc10\bin\opencv_imgproc2410d.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\uxtheme.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\kunlun.ime', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\dbghelp.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23688_none_5c0a8e35a00adeb9\GdiPlus.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\wininet.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\api-ms-win-downlevel-user32-l1-1-0.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l1-1-0.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\api-ms-win-downlevel-version-l1-1-0.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\api-ms-win-downlevel-normaliz-l1-1-0.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\normaliz.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\iertutil.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\api-ms-win-downlevel-advapi32-l1-1-0.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\userenv.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\profapi.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\ws2_32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\nsi.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\dwmapi.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\ntmarta.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\Wldap32.dll', Cannot find or open the PDB file
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\clbcatq.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x1a4) has exited with code 0 (0x0).
+'Console_houghline.exe': Loaded 'C:\Windows\SysWOW64\WindowsCodecs.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x1e04) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0xde0) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x7a4) has exited with code -1073741510 (0xc000013a).
+The program '[5696] Console_houghline.exe: Native' has exited with code -1073741510 (0xc000013a).

@@ -1,0 +1,49 @@
+﻿Build started 2017/3/28 11:13:16.
+     1>Project "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\AsynchronousGrabQt.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Debug\AsynchronousGrabQt.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         AsynchronousGrabQt.vcxproj -> D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\AsynchronousGrabQt.exe
+       PostBuildEvent:
+         xcopy "D:\Program Files\Allied Vision\Vimba_2.0\\VimbaCPP\Bin\Win32\*.*" "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\" /Y
+         if "Debug"=="Debug" goto COPYDEBUG
+         xcopy "C:\Qt\4.8.7\bin\QtCore4.dll" "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\" /Y
+         xcopy "C:\Qt\4.8.7\bin\QtGui4.dll" "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\" /Y
+         xcopy "C:\Qt\4.8.7\bin\QtSvg4.dll" "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\" /Y
+         goto END
+         :COPYDEBUG
+         xcopy "C:\Qt\4.8.7\bin\QtCored4.dll" "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\" /Y
+         xcopy "C:\Qt\4.8.7\bin\QtGuid4.dll" "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\" /Y
+         xcopy "C:\Qt\4.8.7\bin\QtSvgd4.dll" "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\" /Y
+         :END
+         xcopy "D:\Program Files\Allied Vision\Vimba_2.0\\VimbaImageTransform\Bin\Win32\*.*" "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\" /Y
+         
+         :VCEnd
+         D:\Program Files\Allied Vision\Vimba_2.0\\VimbaCPP\Bin\Win32\VimbaC.dll
+         D:\Program Files\Allied Vision\Vimba_2.0\\VimbaCPP\Bin\Win32\VimbaCPP.dll
+         D:\Program Files\Allied Vision\Vimba_2.0\\VimbaCPP\Bin\Win32\VimbaCPPd.dll
+         复制了 3 个文件
+         C:\Qt\4.8.7\bin\QtCored4.dll
+         复制了 1 个文件
+         C:\Qt\4.8.7\bin\QtGuid4.dll
+         复制了 1 个文件
+         C:\Qt\4.8.7\bin\QtSvgd4.dll
+         复制了 1 个文件
+         D:\Program Files\Allied Vision\Vimba_2.0\\VimbaImageTransform\Bin\Win32\VimbaImageTransform.dll
+         复制了 1 个文件
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\AsynchronousGrabQt.unsuccessfulbuild".
+         Touching "Win32\Debug\AsynchronousGrabQt.lastbuildstate".
+     1>Done Building Project "D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\AsynchronousGrabQt.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49

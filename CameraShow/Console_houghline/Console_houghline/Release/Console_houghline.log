@@ -1,0 +1,22 @@
+﻿Build started 2017/3/15 15:34:37.
+     1>Project "D:\张亮文件\工业相机视觉文件\CameraShow\Console_houghline\Console_houghline\Console_houghline.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Console_houghline.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt houghlines.cpp
+         houghlines.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\张亮文件\工业相机视觉文件\CameraShow\Console_houghline\Release\Console_houghline.exe" /INCREMENTAL:NO /NOLOGO opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib opencv_nonfree2413.lib opencv_objdetect2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_videostab2413.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_ml2413d.lib opencv_nonfree2413d.lib opencv_objdetect2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_videostab2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Console_houghline.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\张亮文件\工业相机视觉文件\CameraShow\Console_houghline\Release\Console_houghline.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\张亮文件\工业相机视觉文件\CameraShow\Console_houghline\Release\Console_houghline.lib" /MACHINE:X86 Release\houghlines.obj
+         Generating code
+         Finished generating code
+         Console_houghline.vcxproj -> D:\张亮文件\工业相机视觉文件\CameraShow\Console_houghline\Release\Console_houghline.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\张亮文件\工业相机视觉文件\CameraShow\Console_houghline\Release\Console_houghline.exe;#1" /manifest Release\Console_houghline.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Console_houghline.unsuccessfulbuild".
+         Touching "Release\Console_houghline.lastbuildstate".
+     1>Done Building Project "D:\张亮文件\工业相机视觉文件\CameraShow\Console_houghline\Console_houghline\Console_houghline.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01

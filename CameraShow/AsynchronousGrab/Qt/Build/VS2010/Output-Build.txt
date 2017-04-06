@@ -1,0 +1,53 @@
+﻿1>------ Rebuild All started: Project: AsynchronousGrabQt, Configuration: Debug Win32 ------
+1>Build started 2017/3/16 17:10:16.
+1>InitializeBuildStatus:
+1>  Touching "Win32\Debug\AsynchronousGrabQt.unsuccessfulbuild".
+1>CustomBuild:
+1>  Moc'ing ..\..\Source\AsynchronousGrab.h...
+1>  Uic'ing ..\..\Source\res\AsynchronousGrab.ui...
+1>  Rcc'ing ..\..\Source\res\AsynchronousGrab.qrc...
+1>  Moc'ing ..\..\Source\FrameObserver.h...
+1>  Moc'ing ..\..\Source\CameraObserver.h...
+1>ClCompile:
+1>  ApiController.cpp
+1>  AsynchronousGrab.cpp
+1>d:\opencv2.4.10\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  CameraObserver.cpp
+1>  imagecvprocess.cpp
+1>d:\opencv2.4.10\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  FrameObserver.cpp
+1>  moc_AsynchronousGrab.cpp
+1>d:\opencv2.4.10\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  moc_CameraObserver.cpp
+1>  moc_FrameObserver.cpp
+1>  main.cpp
+1>d:\opencv2.4.10\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  Generating Code...
+1>  qrc_AsynchronousGrab.cpp
+1>Link:
+1>  AsynchronousGrabQt.vcxproj -> D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Build\VS2010\Win32\Debug\AsynchronousGrabQt.exe
+1>PostBuildEvent:
+1>  D:\Program Files\Allied Vision\Vimba_2.0\\VimbaCPP\Bin\Win32\VimbaC.dll
+1>  D:\Program Files\Allied Vision\Vimba_2.0\\VimbaCPP\Bin\Win32\VimbaCPP.dll
+1>  D:\Program Files\Allied Vision\Vimba_2.0\\VimbaCPP\Bin\Win32\VimbaCPPd.dll
+1>  复制了 3 个文件
+1>  C:\Qt\4.8.7\bin\QtCored4.dll
+1>  复制了 1 个文件
+1>  C:\Qt\4.8.7\bin\QtGuid4.dll
+1>  复制了 1 个文件
+1>  C:\Qt\4.8.7\bin\QtSvgd4.dll
+1>  复制了 1 个文件
+1>  D:\Program Files\Allied Vision\Vimba_2.0\\VimbaImageTransform\Bin\Win32\VimbaImageTransform.dll
+1>  复制了 1 个文件
+1>FinalizeBuildStatus:
+1>  Deleting file "Win32\Debug\AsynchronousGrabQt.unsuccessfulbuild".
+1>  Touching "Win32\Debug\AsynchronousGrabQt.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:09.98
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
