@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="trainSVM" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAEBAQQAFAACABAAAAAQQAAQAEAAAAAAAAAgIogQ=</HashCode>
+      <FileName>trainSVM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myBowTrain" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwCAAADAYAIBBAggAhQABEQBwCAADgAACQBKAACgAA=</HashCode>
+      <FileName>myBowTrain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_AsynchronousGrabClass" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MRBAsoAAAFEjAAAAAAUAAAAAWAYJIMAAAYAAAEAYAAE=</HashCode>
+      <FileName>GeneratedFiles\ui_AsynchronousGrab.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsynchronousGrab" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAEAQAgAAAAEIAAgCABAAAQAMgBQEAQEICACAEAFQA=</HashCode>
+      <FileName>D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Source\AsynchronousGrab.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyServer" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAIAAAAAAIgEAAhAAAQAEAEEAAAAAACAAAAAA=</HashCode>
+      <FileName>myserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageCVProcess" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DQCAAACCAAGUDgBgDAAAiAAgQAgCAAAACAAIgAAAAAA=</HashCode>
+      <FileName>D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Source\CVImageProcess\imagecvprocess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BFeExtractor" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAEBCQYAMLBAQBAAIABQABYQAADAAACQBIACKgAQ=</HashCode>
+      <FileName>bfeextractor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::AsynchronousGrabClass" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_AsynchronousGrab.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVT::VmbAPI::Examples::ApiController" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEECFAoQEAAQAAIAIEQCBAAABAIAABQgAAAUAAAAA=</HashCode>
+      <FileName>D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Source\ApiController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVT::VmbAPI::Examples::FrameObserver" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAoAAAAABAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Source\FrameObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVT::VmbAPI::Examples::CameraObserver" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Source\CameraObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="string_type" Collapsed="true">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\张亮文件\工业相机视觉文件\CameraShow\Common\ErrorCodeToMessage.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="Piston_categroy" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Source\CVImageProcess\imagecvprocess.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AVT::VmbAPI::Examples::__unnamed_enum_0006_1" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\张亮文件\工业相机视觉文件\CameraShow\AsynchronousGrab\Qt\Source\ApiController.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>
